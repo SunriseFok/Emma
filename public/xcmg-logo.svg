@@ -1,0 +1,7 @@
+<svg width="350" height="110" viewBox="0 0 350 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="110" rx="10" fill="white"/>
+  <rect x="16" y="18" width="70" height="70" rx="8" fill="#0057B8"/>
+  <path d="M30 34H72L58 54H44L30 34Z" fill="white"/>
+  <path d="M30 72H72L58 52H44L30 72Z" fill="white"/>
+  <text x="98" y="73" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#0057B8">XCMG</text>
+</svg>
